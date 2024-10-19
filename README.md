@@ -12,6 +12,9 @@
 9) evaluate the model by testing it on the test set, computing accuracy, and generating a classification report.
 10) test with a sample tweet by passing it to the prediction function and printing the probability of a suicide attempt.
 
+## Complete Dataset:
+https://www.kaggle.com/datasets/kazanova/sentiment140
+
 ## Installation:
 ```py
 pip install pandas numpy scikit-learn nltk streamlit
